@@ -1,0 +1,72 @@
+.navBar
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+.navBar a
+{
+    color: black;
+}
+.navBar1:hover a
+{
+    color: red;
+}
+.navBar2:hover a
+{
+    color: red;
+}
+.navBar3:hover a
+{
+    color: red;
+}
+.navBar4:hover a
+{
+    color: red;
+}
+.navBar3
+{
+    font-weight: bold;
+}
+.navBack a
+{
+    background-color: rgb(211, 221, 244);
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+    width: 200px;
+    text-decoration: none;
+}
+body
+{
+    background-color: lightgrey;
+}
+
+/*Main area*/
+.intro
+{
+    padding: 50px;
+}
+.header
+{
+  float: center;
+  text-align: center;
+}
+#image1
+{
+    height: 300px;
+    length: 850px;
+    margin: 30px 12px 3px 4px;
+    border: 3px solid;
+}
+.body2
+{
+    padding: 50px;
+}
+.navbar navbar-light bg-grey
+{
+    background-color: lightgrey;
+    padding: 50px;
+}
